@@ -1,0 +1,2 @@
+# Logistic-Regression-101-US-Household-Income-Classification1
+The hands-on project on Logistic Regression101: US Income Classification is divided into the following tasks:  Understand the problem statement and business case  Import libraries/datasets   Perform Exploratory Data Analysis  Perform Data Visualization   Prepare the data before model training  Understand the intuition behind Logistic Regression   Train and Evaluate a Logistic regression model  Train and Evaluate a XG-Boost model
